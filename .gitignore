@@ -1,0 +1,11 @@
+﻿# Visual Studio related
+.vs/
+*.user
+*.suo
+*.cache
+*.csproj.user
+
+# Build files
+bin/
+obj/
+
